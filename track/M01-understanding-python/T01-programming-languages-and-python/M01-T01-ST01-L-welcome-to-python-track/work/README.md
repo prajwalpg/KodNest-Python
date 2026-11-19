@@ -2,26 +2,29 @@
 
 ## My Name
 
-Write your name.
-
+Prajwal P G
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+pesudo
+python 
+oo
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+Bcz of AI Boom
 
 ## My Career Goal
 
-Write the role you want to achieve.
+A best developer
 
 ## What I Understood Today
 
-Complete these sentences:
+MLL
 
-Programming means:
+Step by step instructuin
 
 Python is:
 
-In this track, I will learn:
+Interpreter 
+complier
+hybrid
